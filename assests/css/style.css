@@ -34,10 +34,11 @@ body {
     white-space: pre-wrap;
     height: 80px;
     border-top: 1px solid white;;
+
   }
-  
+
   .hour {
-    background-color: #ffffff;
+    background-color: #ffffff49;
     color: #000000;
     border-top: 1px dashed #000000;
   }
